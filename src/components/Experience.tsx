@@ -3,37 +3,13 @@ import { Briefcase, Calendar, MapPin } from 'lucide-react';
 
 const Experience = () => {
   const experiences = [
-    {
-      title: 'Senior Full Stack Developer',
-      company: 'TechCorp Solutions',
-      location: 'Remote',
-      period: '2022 - Present',
-      description: 'Lead development of scalable web applications using React, Node.js, and AWS. Mentored junior developers and implemented CI/CD pipelines.',
-      achievements: [
-        'Increased application performance by 40%',
-        'Led a team of 5 developers',
-        'Architected microservices infrastructure'
-      ],
-      color: 'from-purple-500 to-pink-500'
-    },
-    {
-      title: 'Full Stack Developer',
-      company: 'Digital Innovations Inc.',
-      location: 'New York, NY',
-      period: '2020 - 2022',
-      description: 'Developed and maintained multiple client projects using modern web technologies. Collaborated with design teams to implement pixel-perfect UIs.',
-      achievements: [
-        'Delivered 15+ successful projects',
-        'Reduced development time by 30%',
-        'Implemented responsive design standards'
-      ],
-      color: 'from-blue-500 to-cyan-500'
-    },
+  
+
     {
       title: 'Frontend Developer',
       company: 'StartupHub',
-      location: 'San Francisco, CA',
-      period: '2019 - 2020',
+      location: 'Kanchipuram',
+      period: '2022 - 2025',
       description: 'Built responsive web applications with React and worked closely with UX designers to create intuitive user interfaces.',
       achievements: [
         'Converted 10+ designs to code',
@@ -46,11 +22,11 @@ const Experience = () => {
 
   const education = [
     {
-      degree: 'Bachelor of Science in Computer Science',
-      school: 'University of Technology',
-      location: 'California',
-      period: '2015 - 2019',
-      description: 'Graduated Magna Cum Laude with focus on software engineering and web development.',
+      degree: 'Bachelor of Information',
+      school: 'Adhi College of Engineering and Technology',
+      location: 'Kanchipuram',
+      period: '2022 - 2026',
+      description: 'Graduated with focus on software engineering and web development.',
       color: 'from-orange-500 to-red-500'
     }
   ];
